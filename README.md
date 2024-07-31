@@ -1,6 +1,7 @@
 CODIVY CONSULTING'S DATA ANALYTIC INTERNSHIP PROGRAM
 
-These tasks focus on leveraging Power BI to enhance data visualization and analytical capabilities.
+TASK:
+Data Analysis focuses on leveraging Power BI to enhance data visualization and analytical capabilities.
 
 1. Monthly Crude Oil Production Trends:
 Use Power BI to create an interactive dashboard that visualizes monthly crude oil production trends over the last ten years. 
